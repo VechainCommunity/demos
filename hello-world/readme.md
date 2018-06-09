@@ -6,9 +6,9 @@ GOAL: To print out latest block
 
 - Make sure you install [golang](https://golang.org/doc/install) v1.10.0^ and [node](https://nodejs.org/en/) v8.0.0^
 - Make sure you setup `$GOPATH`, and git clone [thor](https://github.com/vechain/thor) under the src folder
-- follow the office [docs](https://github.com/vechain/thor) to build and run the testnet
-- your thor is ready on `http://localhost:8669/`
-- we want to use [thorify](https://github.com/vechain/thorify) to interact with this endpoint
+- Follow the official [docs](https://github.com/vechain/thor) to build and run the testnet
+- Your thor is ready on `http://localhost:8669/`
+- We want to use [thorify](https://github.com/vechain/thorify) to interact with this endpoint
 - index.js
 
 ```js
